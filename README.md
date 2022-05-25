@@ -1,5 +1,6 @@
 #Sample Output1 : 
-![image](https://user-images.githubusercontent.com/101569259/170193555-3669fe98-7a9b-492f-a616-787c1c60440e.png)
+![image](https://user-images.githubusercontent.com/101569259/170195185-c1a6d43a-0e1e-4ebc-98b0-5c2ed4599a38.png)
+
 #Sample Otuput2(History) :
 ![image](https://user-images.githubusercontent.com/101569259/170195044-6713f840-add4-44eb-a07f-7483a69fa792.png)
 
